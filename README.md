@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @SebastianAVivar
-- 👀 I’m interested in app's Software developing
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on any proyect make me improve my skills
-- 📫 How to reach me ... seba.aviles20@gmail.com
-- 😄 Pronouns: ... 
-- ⚡ Fun fact: ... i'm still a student of informatic engenier
+👋 Hi, I’m @SebastianAVivar
+💻 Passionate about app development & software engineering
+🚀 Currently learning Java and expanding my skill set
+🤝 Open to collaborating on projects that help me grow as a developer
+📩 Reach me at seba.aviles20@gmail.com
+😄 Pronouns: ... 
 
 <!---
 SebastianAVivar/SebastianAVivar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
